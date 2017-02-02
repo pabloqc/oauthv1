@@ -1,0 +1,4 @@
+requests_oauthlib==0.7.0
+PyYAML==3.12
+datetime==4.1.1
+
